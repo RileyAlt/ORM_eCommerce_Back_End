@@ -35,7 +35,7 @@ The program runs as follows:
 
 ### Licensing
 
-MIT
+MIT License
 
 ### Contributors
 
