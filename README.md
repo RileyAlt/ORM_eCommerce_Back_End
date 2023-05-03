@@ -1,44 +1,34 @@
 # ORM_eCommerce_Back_End
-### Author
 
-Riley Altenburg
+## Author
 
-If you'd like to connect me, please email RileyAltenburg@gmail.com. I'd love to answer any questions and improve where i can. 
+[Riley Altenburg](RileyAltenburg@gmail.com)
 
-### GitHub Information
+If you'd like to connect me, please email me!
 
-Find my Repository information here at: https://github.com/RileyAlt/ORM_eCommerce_Back_End
+## Description
 
-### Description
+My Motivation for the project was to understand backend servers while utilizing express.js APIs and using Sqeuelize to get to our MySQL database
 
-My Motivation for the project was to understand back end servers while utulizing Express.js API and configuring using Sqeuelize to get to our MySQL database
+The project was built to create a responsive local server that can manage an Ecommerce structure. This project will grab objects by different ids, by many or by a single product/catergory.
 
-The project was built to create a responsive local server host that can manage an Ecommerce structure. You are able grab objects by different ids, by many or by a single product/catergory
+This taught how to use Object Relational Mappers (ORM) to navigate our databases and how we can have everything connected to flow very easily.
 
-This solved how to us Object-Relational Mapping to navigate in our databases and how we can have everything connected to flow very easily 
+What I learned from this project was how to use API routing and ORM when using express.js and Sequlize to manage the databases.
 
-What I learn from the project was how to use API routing and Mapping when using Express.js and Sequlize to manage the databases
+## Installation
 
-### Installation
+You must Run `npm i` to install all package dependencies,
+Once everthing is fully downloaded you will run `node server.js` to start your local server. After that you can use a tool like Insomnia to hit the endpoints and test them out!
 
-You must Run `npm i` to install all package dependencies, 
-Once everthing is fully downloaded you will run `node server.js` to start your local server, you will follow the link to Insomnia to follow all the paths
-
-
-### Usage
+## DEMO
 
 The program runs as follows:
 
-![alt text](./src/start-page.png)
+![Insomnia screenshot showing all products being called](./assets/WorkingProduct.png)
 
-![alt text](./src/running-app.png)
+![Insomnia screenshot showing all Catergories being called](./assets/WorkingCategory.png)
 
-### Licensing
+## Licensing
 
-MIT License
-
-### Contributors
-
-None
-
-### Testing
+This project is licensed under the MIT License.
